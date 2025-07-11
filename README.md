@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/grounddocs-grounddocs-badge.png)](https://mseep.ai/app/grounddocs-grounddocs)
+
 # GroundDocs
 
 GroundDocs is a version-aware documentation assistant. It connects LLMs to trusted, real-time docs—reducing hallucinations and ensuring accurate, version-specific responses.
